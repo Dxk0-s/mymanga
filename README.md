@@ -1,2 +1,0 @@
-# mymanga
-mangasite for college
